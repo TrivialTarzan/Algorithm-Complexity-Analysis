@@ -1,5 +1,3 @@
-# Algorithm-Complexity-Analysis
-
 <h1 align="center">Algorithm Complexity Analysis</h1>
 <h3 align="center">A University Project by TrivialTarzan</h3>
 
@@ -55,8 +53,6 @@ The results are provided in two forms:
    ```bash
    git clone https://github.com/yourusername/Algorithm-Complexity-Analysis.git
 
-
-This project is open-source and available under the MIT License.
 
 Acknowledgments
 
