@@ -1,0 +1,247 @@
+[?2004l
+Badanie 1
+
+Wielkosc tablicy: 50000
+
+MiniMax czas wyszukiwania: 0.000918s
+Quick Sort czas sortowania: 0.006101s
+
+
+Wielkosc tablicy: 100000
+
+MiniMax czas wyszukiwania: 0.001556s
+Quick Sort czas sortowania: 0.012708s
+
+
+Wielkosc tablicy: 500000
+
+MiniMax czas wyszukiwania: 0.006983s
+Quick Sort czas sortowania: 0.071428s
+
+
+Wielkosc tablicy: 1000000
+
+MiniMax czas wyszukiwania: 0.013891s
+Quick Sort czas sortowania: 0.150356s
+
+
+Wielkosc tablicy: 5000000
+
+MiniMax czas wyszukiwania: 0.07136s
+Quick Sort czas sortowania: 0.858156s
+
+
+Wielkosc tablicy: 10000000
+
+MiniMax czas wyszukiwania: 0.143711s
+Quick Sort czas sortowania: 1.81459s
+
+
+Wielkosc tablicy: 20000000
+
+MiniMax czas wyszukiwania: 0.286482s
+Quick Sort czas sortowania: 3.73491s
+
+
+Wielkosc tablicy: 30000000
+
+MiniMax czas wyszukiwania: 0.425748s
+Quick Sort czas sortowania: 5.84179s
+
+
+Wielkosc tablicy: 50000000
+
+MiniMax czas wyszukiwania: 0.744967s
+Quick Sort czas sortowania: 9.89401s
+
+
+Wielkosc tablicy: 70000000
+
+MiniMax czas wyszukiwania: 0.965016s
+Quick Sort czas sortowania: 14.0796s
+
+
+Badanie 2
+
+Wielkosc tablicy: 50000
+
+MiniMax czas wyszukiwania: 0.000866s
+Quick Sort czas sortowania: 0.005955s
+
+
+Wielkosc tablicy: 100000
+
+MiniMax czas wyszukiwania: 0.001563s
+Quick Sort czas sortowania: 0.012522s
+
+
+Wielkosc tablicy: 500000
+
+MiniMax czas wyszukiwania: 0.006984s
+Quick Sort czas sortowania: 0.071001s
+
+
+Wielkosc tablicy: 1000000
+
+MiniMax czas wyszukiwania: 0.013798s
+Quick Sort czas sortowania: 0.150624s
+
+
+Wielkosc tablicy: 5000000
+
+MiniMax czas wyszukiwania: 0.072432s
+Quick Sort czas sortowania: 0.84162s
+
+
+Wielkosc tablicy: 10000000
+
+MiniMax czas wyszukiwania: 0.142787s
+Quick Sort czas sortowania: 1.7739s
+
+
+Wielkosc tablicy: 20000000
+
+MiniMax czas wyszukiwania: 0.295147s
+Quick Sort czas sortowania: 3.6934s
+
+
+Wielkosc tablicy: 30000000
+
+MiniMax czas wyszukiwania: 0.417117s
+Quick Sort czas sortowania: 5.71372s
+
+
+Wielkosc tablicy: 50000000
+
+MiniMax czas wyszukiwania: 0.735357s
+Quick Sort czas sortowania: 9.84642s
+
+
+Wielkosc tablicy: 70000000
+
+MiniMax czas wyszukiwania: 0.978187s
+Quick Sort czas sortowania: 14.2101s
+
+
+Badanie 3
+
+Wielkosc tablicy: 50000
+
+MiniMax czas wyszukiwania: 0.00079s
+Quick Sort czas sortowania: 0.007235s
+
+
+Wielkosc tablicy: 100000
+
+MiniMax czas wyszukiwania: 0.001852s
+Quick Sort czas sortowania: 0.015463s
+
+
+Wielkosc tablicy: 500000
+
+MiniMax czas wyszukiwania: 0.00708s
+Quick Sort czas sortowania: 0.070777s
+
+
+Wielkosc tablicy: 1000000
+
+MiniMax czas wyszukiwania: 0.013857s
+Quick Sort czas sortowania: 0.150698s
+
+
+Wielkosc tablicy: 5000000
+
+MiniMax czas wyszukiwania: 0.072539s
+Quick Sort czas sortowania: 0.84525s
+
+
+Wielkosc tablicy: 10000000
+
+MiniMax czas wyszukiwania: 0.142869s
+Quick Sort czas sortowania: 1.86381s
+
+
+Wielkosc tablicy: 20000000
+
+MiniMax czas wyszukiwania: 0.291221s
+Quick Sort czas sortowania: 3.81939s
+
+
+Wielkosc tablicy: 30000000
+
+MiniMax czas wyszukiwania: 0.425269s
+Quick Sort czas sortowania: 5.79686s
+
+
+Wielkosc tablicy: 50000000
+
+MiniMax czas wyszukiwania: 0.742594s
+Quick Sort czas sortowania: 10.142s
+
+
+Wielkosc tablicy: 70000000
+
+MiniMax czas wyszukiwania: 0.990815s
+Quick Sort czas sortowania: 14.429s
+
+
+Badanie 4
+
+Wielkosc tablicy: 50000
+
+MiniMax czas wyszukiwania: 0.000775s
+Quick Sort czas sortowania: 0.005925s
+
+
+Wielkosc tablicy: 100000
+
+MiniMax czas wyszukiwania: 0.001506s
+Quick Sort czas sortowania: 0.012324s
+
+
+Wielkosc tablicy: 500000
+
+MiniMax czas wyszukiwania: 0.007056s
+Quick Sort czas sortowania: 0.071678s
+
+
+Wielkosc tablicy: 1000000
+
+MiniMax czas wyszukiwania: 0.014727s
+Quick Sort czas sortowania: 0.154833s
+
+
+Wielkosc tablicy: 5000000
+
+MiniMax czas wyszukiwania: 0.071694s
+Quick Sort czas sortowania: 0.875694s
+
+
+Wielkosc tablicy: 10000000
+
+MiniMax czas wyszukiwania: 0.150462s
+Quick Sort czas sortowania: 1.86763s
+
+
+Wielkosc tablicy: 20000000
+
+MiniMax czas wyszukiwania: 0.294173s
+Quick Sort czas sortowania: 3.84113s
+
+
+Wielkosc tablicy: 30000000
+
+MiniMax czas wyszukiwania: 0.423573s
+Quick Sort czas sortowania: 5.8399s
+
+
+Wielkosc tablicy: 50000000
+
+MiniMax czas wyszukiwania: 0.77727s
+Quick Sort czas sortowania: 10.161s
+
+
+Wielkosc tablicy: 70000000
+
+MiniMax czas wyszukiwania: 0.970991s
+Quick Sort czas sortowania: 14.5517s
