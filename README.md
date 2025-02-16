@@ -45,7 +45,7 @@ Comparison of the execution time measurement of two sorting algorithms: Insert S
 <p align="center"><img src="algorithm_results/Insert Sort and Select Sort/comparison_graph.png" alt="Comparison Graph" width="600" height="400"></p>
 
 <h2 align="center">Execution Time Comparison Graph</h2>
-<p align="center"><img src="algorithm_results/Insert Sort and Select Sort/execution_time_table.png" alt="Execution Time Table" width="600" height="400"></p>
+<p align="center"><img src="algorithm_results/Insert Sort and Select Sort/execution_time_table.PNG" alt="Execution Time Table" width="600" height="400"></p>
 
 **Comparison of Execution Time: Cocktail Sort & Bubble Sort**
 Measurement of the execution time of the Cocktail Sort and Bubble Sort algorithms for 5 array sizes: n = 10, 100, 1000, 10000, 100000 in three variants: optimistic, average, and pessimistic.
