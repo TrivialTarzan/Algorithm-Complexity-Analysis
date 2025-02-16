@@ -38,8 +38,19 @@ The goal of this project was to analyze and compare the runtime performance of d
 
 ### Example Results
 
-**Comparison of Execution Time: Cocktail Sort vs. Bubble Sort**
+**Comparison of Execution Time: Insertion Sort Sort & Selection Sort**
+Comparison of the execution time measurement of two sorting algorithms: Insert Sort and Select Sort for 10 array sizes: n = 1000, 7500, 15000, 45000, 90000, 135000, 180000, 210000, 305000, 400000 in three cases: optimistic, average, and pessimistic.
+
+<h2 align="center">Execution Time Comparison Table</h2>
+<p align="center"><img src="algorithm_results/Insert Sort and Select Sort/comparison_graph.png" alt="Comparison Graph" width="600" height="400"></p>
+
+<h2 align="center">Execution Time Comparison Graph</h2>
+<p align="center"><img src="algorithm_results/Insert Sort and Select Sort/execution_time_table.png" alt="Execution Time Table" width="600" height="400"></p>
+
+**Comparison of Execution Time: Cocktail Sort & Bubble Sort**
 Measurement of the execution time of the Cocktail Sort and Bubble Sort algorithms for 5 array sizes: n = 10, 100, 1000, 10000, 100000 in three variants: optimistic, average, and pessimistic.
 
+<h2 align="center">Execution Time Graph</h2>
 <p align="center"><img src="algorithm_results/Cocktail Sort/CocktailSort_and_BubbleSort2_comparison_graph.png" alt="Logo" width="600" height="400"></p>
+
 
