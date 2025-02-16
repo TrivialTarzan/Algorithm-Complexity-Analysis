@@ -1,0 +1,1313 @@
+Porownanie pomiaru czasu dzialania dwoch algorytmow sortujacych: Insert Sort i Select Sort
+dla 10 rozmiarow tablic: n = 1000, 7500, 15000, 45000, 90000, 135000, 180000, 210000, 305000, 400000
+w trzech przypadkach: optymistycznym, ťrednim i pesymistycznym
+
+Badanie nr: 1
+
+Przypadek Optymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.079s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.282s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.405s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 8.61s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 19.13s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 33.813s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 46.703s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 97.405s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 178.403s
+Insert Sort czas wykonania: 0.003s
+
+
+Przypadek Sredni
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.065s
+Insert Sort czas wykonania: 0.038s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.248s
+Insert Sort czas wykonania: 0.156s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.29s
+Insert Sort czas wykonania: 1.308s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 8.919s
+Insert Sort czas wykonania: 5.216s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 20.262s
+Insert Sort czas wykonania: 12.115s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 36.878s
+Insert Sort czas wykonania: 22.39s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 52.051s
+Insert Sort czas wykonania: 31.59s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 120.689s
+Insert Sort czas wykonania: 62.605s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 216.132s
+Insert Sort czas wykonania: 132.199s
+
+
+Przypadek Pesymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0.003s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.071s
+Insert Sort czas wykonania: 0.084s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.276s
+Insert Sort czas wykonania: 0.337s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.516s
+Insert Sort czas wykonania: 2.968s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 10.286s
+Insert Sort czas wykonania: 12.246s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 23.192s
+Insert Sort czas wykonania: 26.785s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 41.421s
+Insert Sort czas wykonania: 47.834s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 56.8s
+Insert Sort czas wykonania: 67.273s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 121.132s
+Insert Sort czas wykonania: 140.919s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 208.841s
+Insert Sort czas wykonania: 247.294s
+
+
+Badanie nr: 2
+
+Przypadek Optymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.002s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.078s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.261s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.354s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 10.78s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 23.301s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 42.614s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 57.48s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 119.42s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 207.208s
+Insert Sort czas wykonania: 0.002s
+
+
+Przypadek Sredni
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.125s
+Insert Sort czas wykonania: 0.052s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.327s
+Insert Sort czas wykonania: 0.263s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.622s
+Insert Sort czas wykonania: 1.559s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 10.303s
+Insert Sort czas wykonania: 6.12s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 22.07s
+Insert Sort czas wykonania: 15.635s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 40.561s
+Insert Sort czas wykonania: 24.352s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 55.903s
+Insert Sort czas wykonania: 33.622s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 117.01s
+Insert Sort czas wykonania: 70.17s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 202.573s
+Insert Sort czas wykonania: 109.557s
+
+
+Przypadek Pesymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.06s
+Insert Sort czas wykonania: 0.071s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.244s
+Insert Sort czas wykonania: 0.295s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.134s
+Insert Sort czas wykonania: 2.578s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 8.898s
+Insert Sort czas wykonania: 10.215s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 21.891s
+Insert Sort czas wykonania: 23.311s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 35.713s
+Insert Sort czas wykonania: 43.485s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 55.014s
+Insert Sort czas wykonania: 60.827s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 110.811s
+Insert Sort czas wykonania: 127.946s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 185.009s
+Insert Sort czas wykonania: 210.675s
+
+
+Badanie nr: 3
+
+Przypadek Optymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.06s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.237s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.294s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 9.162s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 20.272s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 35.568s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 50.534s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 103.77s
+Insert Sort czas wykonania: 0.002s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 180.36s
+Insert Sort czas wykonania: 0.001s
+
+
+Przypadek Sredni
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.002s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.068s
+Insert Sort czas wykonania: 0.04s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.265s
+Insert Sort czas wykonania: 0.158s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.292s
+Insert Sort czas wykonania: 1.302s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 9.125s
+Insert Sort czas wykonania: 5.372s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 20.573s
+Insert Sort czas wykonania: 12.028s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 35.72s
+Insert Sort czas wykonania: 20.408s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 48.809s
+Insert Sort czas wykonania: 28.423s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 102.786s
+Insert Sort czas wykonania: 59.894s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 175.167s
+Insert Sort czas wykonania: 103.748s
+
+
+Przypadek Pesymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.072s
+Insert Sort czas wykonania: 0.09s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.283s
+Insert Sort czas wykonania: 0.31s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.396s
+Insert Sort czas wykonania: 2.619s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 8.61s
+Insert Sort czas wykonania: 10.236s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 20.329s
+Insert Sort czas wykonania: 24.124s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 36.05s
+Insert Sort czas wykonania: 43.962s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 48.986s
+Insert Sort czas wykonania: 57.53s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 106.404s
+Insert Sort czas wykonania: 127.447s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 178.004s
+Insert Sort czas wykonania: 197.667s
+
+
+Badanie nr: 4
+
+Przypadek Optymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.058s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.232s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.103s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 8.841s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 19.095s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 35.348s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 48.917s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 108.185s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 176.454s
+Insert Sort czas wykonania: 0.002s
+
+
+Przypadek Sredni
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.084s
+Insert Sort czas wykonania: 0.05s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.286s
+Insert Sort czas wykonania: 0.164s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.48s
+Insert Sort czas wykonania: 1.802s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 11.398s
+Insert Sort czas wykonania: 6.389s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 22.935s
+Insert Sort czas wykonania: 13.647s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 41.627s
+Insert Sort czas wykonania: 24.368s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 56.403s
+Insert Sort czas wykonania: 35.696s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 136.643s
+Insert Sort czas wykonania: 80.332s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 236.165s
+Insert Sort czas wykonania: 140.362s
+
+
+Przypadek Pesymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0.016s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.076s
+Insert Sort czas wykonania: 0.097s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.381s
+Insert Sort czas wykonania: 0.428s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 3.442s
+Insert Sort czas wykonania: 3.322s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 11.722s
+Insert Sort czas wykonania: 14.012s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 26.745s
+Insert Sort czas wykonania: 31.305s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 37.622s
+Insert Sort czas wykonania: 49.492s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 62.074s
+Insert Sort czas wykonania: 81.395s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 134.836s
+Insert Sort czas wykonania: 159.319s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 230.211s
+Insert Sort czas wykonania: 271.092s
+
+
+Badanie nr: 5
+
+Przypadek Optymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.077s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.319s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.758s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 11.647s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 25.979s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 45.738s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 61.599s
+Insert Sort czas wykonania: 0.002s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 131.699s
+Insert Sort czas wykonania: 0.002s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 222.269s
+Insert Sort czas wykonania: 0.001s
+
+
+Przypadek Sredni
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.002s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.08s
+Insert Sort czas wykonania: 0.049s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.324s
+Insert Sort czas wykonania: 0.192s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.866s
+Insert Sort czas wykonania: 1.681s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 11.59s
+Insert Sort czas wykonania: 6.753s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 25.66s
+Insert Sort czas wykonania: 15.423s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 45.946s
+Insert Sort czas wykonania: 26.997s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 62.577s
+Insert Sort czas wykonania: 36.259s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 131.674s
+Insert Sort czas wykonania: 78.14s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 223.008s
+Insert Sort czas wykonania: 132.436s
+
+
+Przypadek Pesymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0.002s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.082s
+Insert Sort czas wykonania: 0.091s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.332s
+Insert Sort czas wykonania: 0.388s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.911s
+Insert Sort czas wykonania: 3.606s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 10.716s
+Insert Sort czas wykonania: 13.042s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 25.8s
+Insert Sort czas wykonania: 30.179s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 45.128s
+Insert Sort czas wykonania: 54.166s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 62.414s
+Insert Sort czas wykonania: 74.008s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 134.194s
+Insert Sort czas wykonania: 156.247s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 230.301s
+Insert Sort czas wykonania: 267.514s
+
+
+Badanie nr: 6
+
+Przypadek Optymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.002s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.077s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.315s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.849s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 11.001s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 25.452s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 45.255s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 62.367s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 130.523s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 210.84s
+Insert Sort czas wykonania: 0.004s
+
+
+Przypadek Sredni
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.002s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.066s
+Insert Sort czas wykonania: 0.04s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.263s
+Insert Sort czas wykonania: 0.164s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.437s
+Insert Sort czas wykonania: 1.426s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 9.748s
+Insert Sort czas wykonania: 5.603s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 21.653s
+Insert Sort czas wykonania: 12.828s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 38.901s
+Insert Sort czas wykonania: 22.762s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 52.631s
+Insert Sort czas wykonania: 31.302s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 111.941s
+Insert Sort czas wykonania: 66.365s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 194.214s
+Insert Sort czas wykonania: 114.697s
+
+
+Przypadek Pesymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.002s
+Insert Sort czas wykonania: 0.002s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.066s
+Insert Sort czas wykonania: 0.077s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.259s
+Insert Sort czas wykonania: 0.308s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.351s
+Insert Sort czas wykonania: 2.768s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 9.55s
+Insert Sort czas wykonania: 11.093s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 21.511s
+Insert Sort czas wykonania: 25.201s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 38.426s
+Insert Sort czas wykonania: 45.621s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 53.232s
+Insert Sort czas wykonania: 62.801s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 113.907s
+Insert Sort czas wykonania: 132.724s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 196.84s
+Insert Sort czas wykonania: 222.534s
+
+
+Badanie nr: 7
+
+Przypadek Optymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.06s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.244s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.163s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 8.696s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 19.708s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 42.556s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 52.918s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 128.274s
+Insert Sort czas wykonania: 0.002s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 221.79s
+Insert Sort czas wykonania: 0.003s
+
+
+Przypadek Sredni
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.002s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.075s
+Insert Sort czas wykonania: 0.051s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.317s
+Insert Sort czas wykonania: 0.182s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.732s
+Insert Sort czas wykonania: 1.55s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 11.26s
+Insert Sort czas wykonania: 6.334s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 25.301s
+Insert Sort czas wykonania: 14.892s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 45.257s
+Insert Sort czas wykonania: 26.351s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 61.899s
+Insert Sort czas wykonania: 35.79s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 123.63s
+Insert Sort czas wykonania: 62.257s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 225.303s
+Insert Sort czas wykonania: 129.264s
+
+
+Przypadek Pesymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.078s
+Insert Sort czas wykonania: 0.088s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.315s
+Insert Sort czas wykonania: 0.359s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.737s
+Insert Sort czas wykonania: 3.272s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 11.056s
+Insert Sort czas wykonania: 12.987s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 24.843s
+Insert Sort czas wykonania: 28.764s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 44.406s
+Insert Sort czas wykonania: 52.542s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 59.647s
+Insert Sort czas wykonania: 70.523s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 123.625s
+Insert Sort czas wykonania: 150.669s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 225.378s
+Insert Sort czas wykonania: 260.109s
+
+
+Badanie nr: 8
+
+Przypadek Optymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.002s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.078s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.299s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.62s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 10.76s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 24.39s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 44.693s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 60.492s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 126.888s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 209.919s
+Insert Sort czas wykonania: 0.002s
+
+
+Przypadek Sredni
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.065s
+Insert Sort czas wykonania: 0.041s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.273s
+Insert Sort czas wykonania: 0.155s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.501s
+Insert Sort czas wykonania: 1.512s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 10.506s
+Insert Sort czas wykonania: 6.878s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 25.461s
+Insert Sort czas wykonania: 13.852s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 42.918s
+Insert Sort czas wykonania: 26.195s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 58.741s
+Insert Sort czas wykonania: 33.947s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 134.736s
+Insert Sort czas wykonania: 83.312s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 233.941s
+Insert Sort czas wykonania: 133.585s
+
+
+Przypadek Pesymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0.003s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.082s
+Insert Sort czas wykonania: 0.094s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.319s
+Insert Sort czas wykonania: 0.365s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.83s
+Insert Sort czas wykonania: 3.286s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 11.413s
+Insert Sort czas wykonania: 13.23s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 25.492s
+Insert Sort czas wykonania: 31.193s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 46.386s
+Insert Sort czas wykonania: 53.607s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 64.442s
+Insert Sort czas wykonania: 74.176s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 134.02s
+Insert Sort czas wykonania: 155.461s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 232.142s
+Insert Sort czas wykonania: 266.184s
+
+
+Badanie nr: 9
+
+Przypadek Optymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.076s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.318s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.776s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 11.412s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 25.742s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 45.67s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 61.72s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 133.122s
+Insert Sort czas wykonania: 0.006s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 226.387s
+Insert Sort czas wykonania: 0.002s
+
+
+Przypadek Sredni
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.074s
+Insert Sort czas wykonania: 0.048s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.33s
+Insert Sort czas wykonania: 0.183s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 3.11s
+Insert Sort czas wykonania: 1.667s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 11.191s
+Insert Sort czas wykonania: 6.681s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 25.7s
+Insert Sort czas wykonania: 15.372s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 45.871s
+Insert Sort czas wykonania: 27.197s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 61.823s
+Insert Sort czas wykonania: 35.432s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 127.498s
+Insert Sort czas wykonania: 75.752s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 230.203s
+Insert Sort czas wykonania: 134.356s
+
+
+Przypadek Pesymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0.011s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.077s
+Insert Sort czas wykonania: 0.103s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.324s
+Insert Sort czas wykonania: 0.374s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.895s
+Insert Sort czas wykonania: 3.419s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 11.89s
+Insert Sort czas wykonania: 13.294s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 26.395s
+Insert Sort czas wykonania: 30.666s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 47.121s
+Insert Sort czas wykonania: 54.845s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 64.101s
+Insert Sort czas wykonania: 74.052s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 150.977s
+Insert Sort czas wykonania: 169.172s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 253.789s
+Insert Sort czas wykonania: 233.526s
+
+
+Badanie nr: 10
+
+Przypadek Optymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.002s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.064s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.263s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.146s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 9.307s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 21.238s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 37.525s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 55.83s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 112.703s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 193.526s
+Insert Sort czas wykonania: 0.002s
+
+
+Przypadek Sredni
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.002s
+Insert Sort czas wykonania: 0s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.074s
+Insert Sort czas wykonania: 0.037s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.279s
+Insert Sort czas wykonania: 0.161s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.344s
+Insert Sort czas wykonania: 1.366s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 9.565s
+Insert Sort czas wykonania: 5.492s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 21.393s
+Insert Sort czas wykonania: 12.75s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 38.222s
+Insert Sort czas wykonania: 22.524s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 51.711s
+Insert Sort czas wykonania: 30.72s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 111.691s
+Insert Sort czas wykonania: 66.815s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 196.671s
+Insert Sort czas wykonania: 114.802s
+
+
+Przypadek Pesymistyczny
+
+Wielkosc tablicy: 1000
+Select Sort czas wykonania: 0.001s
+Insert Sort czas wykonania: 0.001s
+
+Wielkosc tablicy: 7500
+Select Sort czas wykonania: 0.065s
+Insert Sort czas wykonania: 0.077s
+
+Wielkosc tablicy: 15000
+Select Sort czas wykonania: 0.276s
+Insert Sort czas wykonania: 0.317s
+
+Wielkosc tablicy: 45000
+Select Sort czas wykonania: 2.372s
+Insert Sort czas wykonania: 2.783s
+
+Wielkosc tablicy: 90000
+Select Sort czas wykonania: 9.806s
+Insert Sort czas wykonania: 11.125s
+
+Wielkosc tablicy: 135000
+Select Sort czas wykonania: 21.057s
+Insert Sort czas wykonania: 24.947s
+
+Wielkosc tablicy: 180000
+Select Sort czas wykonania: 38.621s
+Insert Sort czas wykonania: 46.778s
+
+Wielkosc tablicy: 210000
+Select Sort czas wykonania: 52.434s
+Insert Sort czas wykonania: 61.335s
+
+Wielkosc tablicy: 305000
+Select Sort czas wykonania: 111.931s
+Insert Sort czas wykonania: 130.122s
+
+Wielkosc tablicy: 400000
+Select Sort czas wykonania: 193.197s
+Insert Sort czas wykonania: 229.627s
+
