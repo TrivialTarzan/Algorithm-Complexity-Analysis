@@ -1,0 +1,78 @@
+Posortowana tablica wejsciowa rozmiarze n = 100
+Optymistyczny przypadek dla x = 0:
+Indeks elementu: 0
+Czas wyszukiwania = 0.2 mikrosekund
+
+
+Sredni przypadek dla x = 50:
+Indeks elementu: 50
+Czas wyszukiwania = 0.4 mikrosekund
+
+
+Pesymistyczny przypadek dla x = 99:
+Indeks elementu: 99
+Czas wyszukiwania = 0.8 mikrosekund
+
+
+Posortowana tablica wejsciowa rozmiarze n = 1000
+Optymistyczny przypadek dla x = 0:
+Indeks elementu: 0
+Czas wyszukiwania = 0.3 mikrosekund
+
+
+Sredni przypadek dla x = 500:
+Indeks elementu: 500
+Czas wyszukiwania = 2.8 mikrosekund
+
+
+Pesymistyczny przypadek dla x = 999:
+Indeks elementu: 999
+Czas wyszukiwania = 7 mikrosekund
+
+
+Posortowana tablica wejsciowa rozmiarze n = 10000
+Optymistyczny przypadek dla x = 0:
+Indeks elementu: 0
+Czas wyszukiwania = 0.4 mikrosekund
+
+
+Sredni przypadek dla x = 5000:
+Indeks elementu: 5000
+Czas wyszukiwania = 11.3 mikrosekund
+
+
+Pesymistyczny przypadek dla x = 9999:
+Indeks elementu: 9999
+Czas wyszukiwania = 24.4 mikrosekund
+
+
+Posortowana tablica wejsciowa rozmiarze n = 100000
+Optymistyczny przypadek dla x = 0:
+Indeks elementu: 0
+Czas wyszukiwania = 0.3 mikrosekund
+
+
+Sredni przypadek dla x = 50000:
+Indeks elementu: 50000
+Czas wyszukiwania = 128.5 mikrosekund
+
+
+Pesymistyczny przypadek dla x = 99999:
+Indeks elementu: 99999
+Czas wyszukiwania = 328.5 mikrosekund
+
+
+Posortowana tablica wejsciowa rozmiarze n = 1000000
+Optymistyczny przypadek dla x = 0:
+Indeks elementu: 0
+Czas wyszukiwania = 0.2 mikrosekund
+
+
+Sredni przypadek dla x = 500000:
+Indeks elementu: 500000
+Czas wyszukiwania = 1599.5 mikrosekund
+
+
+Pesymistyczny przypadek dla x = 999999:
+Indeks elementu: 999999
+Czas wyszukiwania = 2735.9 mikrosekund
