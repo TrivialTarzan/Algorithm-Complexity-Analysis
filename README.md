@@ -42,10 +42,10 @@ The goal of this project was to analyze and compare the runtime performance of d
 ### Comparison of Execution Time: Insertion Sort & Selection Sort
 This section compares the execution times of two sorting algorithms, Insertion Sort and Selection Sort, for 10 array sizes (n): 1000, 7500, 15000, 45000, 90000, 135000, 180000, 210000, 305000, 400000. The analysis includes three scenarios: optimistic, average, and pessimistic.
 
-<h3 align="center">Execution Time Comparison Table</h3>
+<h3 align="center">Execution Time Comparison Graph</h3>
 <p align="center"><img src="algorithm_results/Insert Sort and Select Sort/comparison_graph.png" alt="Comparison of Insertion Sort and Selection Sort Execution Times" width="600" height="400"></p>
 
-<h3 align="center">Execution Time Comparison Graph</h3>
+<h3 align="center">Execution Time Comparison Table</h3>
 <p align="center"><img src="algorithm_results/Insert Sort and Select Sort/execution_time_table.PNG" alt="Execution Time Comparison Table for Insertion Sort and Selection Sort" width="400" height="650"></p>
 
 ### Comparison of Execution Time: Cocktail Sort & Bubble Sort
