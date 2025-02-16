@@ -1,0 +1,80 @@
+Przypadek Optymistyczny
+
+Wielkosc tablicy: 10
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 100
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 1000
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 10000
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 100000
+cocktailSort czas wykonania: 0.001s
+
+Przypadek Sredni
+
+Wielkosc tablicy: 10
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 100
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 1000
+cocktailSort czas wykonania: 0.004s
+Wielkosc tablicy: 10000
+cocktailSort czas wykonania: 0.395s
+Wielkosc tablicy: 100000
+cocktailSort czas wykonania: 35.294s
+
+Przypadek Pesymistyczny
+
+Wielkosc tablicy: 10
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 100
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 1000
+cocktailSort czas wykonania: 0.005s
+Wielkosc tablicy: 10000
+cocktailSort czas wykonania: 0.388s
+Wielkosc tablicy: 100000
+cocktailSort czas wykonania: 40.031s
+
+Przypadek Optymistyczny
+
+Wielkosc tablicy: 10
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 100
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 1000
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 10000
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 100000
+cocktailSort czas wykonania: 0s
+
+
+Przypadek Sredni
+
+Wielkosc tablicy: 10
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 100
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 1000
+cocktailSort czas wykonania: 0.003s
+Wielkosc tablicy: 10000
+cocktailSort czas wykonania: 0.411s
+Wielkosc tablicy: 100000
+cocktailSort czas wykonania: 37.304s
+
+
+Przypadek Pesymistyczny
+
+Wielkosc tablicy: 10
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 100
+cocktailSort czas wykonania: 0s
+Wielkosc tablicy: 1000
+cocktailSort czas wykonania: 0.004s
+Wielkosc tablicy: 10000
+cocktailSort czas wykonania: 0.383s
+
+Wielkosc tablicy: 100000
+cocktailSort czas wykonania: 40.052s
