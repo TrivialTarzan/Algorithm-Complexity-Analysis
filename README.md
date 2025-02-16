@@ -27,14 +27,14 @@
 The goal of this project was to analyze and compare the runtime performance of different algorithms. The algorithms are implemented in C++ and measured their execution time on various input sizes. To visualize the results, I used Python and the Matplotlib library to create graphs that display the time complexity of each algorithm.
 
 #### Algorithms Tested:
-- **Insertion Sort**: Insertion sort is a simple sorting algorithm that builds the final sorted array one item at a time by comparisons.
-- **Selection Sort**: An algorithm that sorts an array by repeatedly selecting the smallest (or largest) element from the unsorted portion and swapping it with the first unsorted element.
-- **Jump Search**: An algorithm that searches for an element in a sorted list by jumping ahead by a fixed number of steps.
-- **Binary Search (Recursive)**: A recursive algorithm to find an element in a sorted list by repeatedly dividing the search range in half.
-- **Binary Search (Iterative)**: A non-recursive version of Binary Search that also halves the search range iteratively.
-- **Linear Search**: A simple algorithm that checks each element in a list one by one.
-- **Cocktail Sort**: A variation of Bubble Sort that traverses through a given array in both directions.
-- **Bubble Sort**: A simple sorting algorithm that repeatedly steps through the list, compares adjacent items, and swaps them if they are in the wrong order.
+- **Insertion Sort**: a simple sorting algorithm that builds the final sorted array one item at a time by comparisons.
+- **Selection Sort**: an algorithm that sorts an array by repeatedly selecting the smallest (or largest) element from the unsorted portion and swapping it with the first unsorted element.
+- **Jump Search**: an algorithm that searches for an element in a sorted list by jumping ahead by a fixed number of steps.
+- **Binary Search (Recursive)**: a recursive algorithm to find an element in a sorted list by repeatedly dividing the search range in half.
+- **Binary Search (Iterative)**: a non-recursive version of Binary Search that also halves the search range iteratively.
+- **Linear Search**: a simple algorithm that checks each element in a list one by one.
+- **Cocktail Sort**: a variation of Bubble Sort that traverses through a given array in both directions.
+- **Bubble Sort**: a simple sorting algorithm that repeatedly steps through the list, compares adjacent items, and swaps them if they are in the wrong order.
 
 ### Results
 
