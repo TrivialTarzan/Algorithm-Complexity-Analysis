@@ -1,0 +1,71 @@
+Porownanie dwoch algorytmow bubble sort (bubbleSort i bubbleSort2)
+pomiaru czasu dzia│ania algorytmu dla 5 rozmiarow tablic: n = 10, 100, 1000, 10000, 100000 w trzech scenariuszach
+
+
+Przypadek Optymistyczny
+
+Wielkosc tablicy: 10
+bubbleSort czas wykonania: 0s
+bubbleSort2 czas wykonania: 0s
+
+Wielkosc tablicy: 100
+bubbleSort czas wykonania: 0s
+bubbleSort2 czas wykonania: 0s
+
+Wielkosc tablicy: 1000
+bubbleSort czas wykonania: 0.001s
+bubbleSort2 czas wykonania: 0s
+
+Wielkosc tablicy: 10000
+bubbleSort czas wykonania: 0.147s
+bubbleSort2 czas wykonania: 0.001s
+
+Wielkosc tablicy: 100000
+bubbleSort czas wykonania: 13.65s
+bubbleSort2 czas wykonania: 0.001s
+
+
+Przypadek Sredni
+
+Wielkosc tablicy: 10
+bubbleSort czas wykonania: 0s
+bubbleSort2 czas wykonania: 0s
+
+Wielkosc tablicy: 100
+bubbleSort czas wykonania: 0s
+bubbleSort2 czas wykonania: 0s
+
+Wielkosc tablicy: 1000
+bubbleSort czas wykonania: 0.004s
+bubbleSort2 czas wykonania: 0.004s
+
+Wielkosc tablicy: 10000
+bubbleSort czas wykonania: 0.409s
+bubbleSort2 czas wykonania: 0.479s
+
+Wielkosc tablicy: 100000
+bubbleSort czas wykonania: 47.656s
+bubbleSort2 czas wykonania: 46.373s
+
+
+Przypadek Pesymistyczny
+
+Wielkosc tablicy: 10
+bubbleSort czas wykonania: 0s
+bubbleSort2 czas wykonania: 0s
+
+Wielkosc tablicy: 100
+bubbleSort czas wykonania: 0s
+bubbleSort2 czas wykonania: 0s
+
+Wielkosc tablicy: 1000
+bubbleSort czas wykonania: 0.005s
+bubbleSort2 czas wykonania: 0.005s
+
+Wielkosc tablicy: 10000
+bubbleSort czas wykonania: 0.419s
+bubbleSort2 czas wykonania: 0.4s
+
+Wielkosc tablicy: 100000
+bubbleSort czas wykonania: 39.117s
+bubbleSort2 czas wykonania: 39.102s
