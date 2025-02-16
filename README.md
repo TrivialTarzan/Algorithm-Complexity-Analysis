@@ -36,14 +36,10 @@ The goal of this project was to analyze and compare the runtime performance of d
 - **Cocktail Sort**: a variation of Bubble Sort that traverses through a given array in both directions.
 - **Bubble Sort**: a simple sorting algorithm that repeatedly steps through the list, compares adjacent items, and swaps them if they are in the wrong order.
 
-### Results
+### Example Results
 
-The results are provided in two forms:
-1. **Tables**
-2. **Graphs**
+**Comparison of Execution Time: Cocktail Sort vs. Bubble Sort**
+Measurement of the execution time of the Cocktail Sort and Bubble Sort algorithms for 5 array sizes: n = 10, 100, 1000, 10000, 100000 in three variants: optimistic, average, and pessimistic.
 
-### Files Included
-
-- `algorithm_results/`: Contains text files with the raw data for each algorithm's execution time.
-- `graphs/`: Contains the visualizations generated using Matplotlib.
+<p align="center"><img src="algorithm_results/Cocktail Sort/CocktailSort_and_BubbleSort2_comparison_graph.png" alt="Logo" width="600" height="400"></p>
 
