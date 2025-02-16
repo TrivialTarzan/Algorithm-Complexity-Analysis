@@ -15,7 +15,7 @@
 </ul>
 
 
-<h4 align="left">The results of the analysis are showcased in tables and graphs. The raw data for each algorithm is available in text files, allowing you to explore the performance of each algorithm in detail.</h4>
+<h4 align="left">The results of the analysis are showcased in tables and graphs. The raw data for each algorithm is available in text files.</h4>
 
 ### Technologies Used
 
