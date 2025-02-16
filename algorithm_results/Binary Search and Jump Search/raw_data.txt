@@ -1,0 +1,3510 @@
+Badanie nr: 1
+Wielkosc tablicy = 10000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 6900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 5000
+Binary Search Rec czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 5000
+Jump Search czas wyszukiwania = 2500 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 9999
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 9999
+Jump Search czas wyszukiwania = 5100 nanoseconds
+
+
+Wielkosc tablicy = 50000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 25000
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 25000
+Jump Search czas wyszukiwania = 12100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 49999
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 49999
+Jump Search czas wyszukiwania = 11900 nanoseconds
+
+
+Wielkosc tablicy = 100000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1200 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 50000
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 50000
+Jump Search czas wyszukiwania = 8300 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 99999
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 99999
+Jump Search czas wyszukiwania = 98100 nanoseconds
+
+
+Wielkosc tablicy = 500000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 5200 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 250000
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 250000
+Binary Search Rec czas wyszukiwania = 2700 nanoseconds
+
+Indeks elementu: 250000
+Jump Search czas wyszukiwania = 43900 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 499999
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 499999
+Binary Search Rec czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 499999
+Jump Search czas wyszukiwania = 72700 nanoseconds
+
+
+Wielkosc tablicy = 1000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000
+Binary Search Iter czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 500000
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 500000
+Jump Search czas wyszukiwania = 63300 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 999999
+Binary Search Rec czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 999999
+Jump Search czas wyszukiwania = 206300 nanoseconds
+
+
+Wielkosc tablicy = 5000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 2500000
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 2500000
+Binary Search Rec czas wyszukiwania = 1700 nanoseconds
+
+Indeks elementu: 2500000
+Jump Search czas wyszukiwania = 163300 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 4999999
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 4999999
+Binary Search Rec czas wyszukiwania = 2300 nanoseconds
+
+Indeks elementu: 4999999
+Jump Search czas wyszukiwania = 324800 nanoseconds
+
+
+Wielkosc tablicy = 10000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1700 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1100 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000000
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 5000000
+Binary Search Rec czas wyszukiwania = 2200 nanoseconds
+
+Indeks elementu: 5000000
+Jump Search czas wyszukiwania = 228500 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999999
+Binary Search Iter czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 9999999
+Binary Search Rec czas wyszukiwania = 2300 nanoseconds
+
+Indeks elementu: 9999999
+Jump Search czas wyszukiwania = 423700 nanoseconds
+
+
+Wielkosc tablicy = 50000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000000
+Binary Search Iter czas wyszukiwania = 2200 nanoseconds
+
+Indeks elementu: 25000000
+Binary Search Rec czas wyszukiwania = 1700 nanoseconds
+
+Indeks elementu: 25000000
+Jump Search czas wyszukiwania = 347000 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999999
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 49999999
+Binary Search Rec czas wyszukiwania = 2600 nanoseconds
+
+Indeks elementu: 49999999
+Jump Search czas wyszukiwania = 1833000 nanoseconds
+
+
+Wielkosc tablicy = 100000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000000
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 50000000
+Binary Search Rec czas wyszukiwania = 2900 nanoseconds
+
+Indeks elementu: 50000000
+Jump Search czas wyszukiwania = 332800 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999999
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 99999999
+Binary Search Rec czas wyszukiwania = 1900 nanoseconds
+
+Indeks elementu: 99999999
+Jump Search czas wyszukiwania = 942600 nanoseconds
+
+
+Wielkosc tablicy = 1000000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000000
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 500000000
+Binary Search Rec czas wyszukiwania = 2900 nanoseconds
+
+Indeks elementu: 500000000
+Jump Search czas wyszukiwania = 2128700 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999999
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 999999999
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 999999999
+Jump Search czas wyszukiwania = 3651200 nanoseconds
+
+
+Badanie nr: 2
+Wielkosc tablicy = 10000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 300 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 500 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 5000
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 5000
+Jump Search czas wyszukiwania = 4800 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 9999
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 9999
+Jump Search czas wyszukiwania = 5900 nanoseconds
+
+
+Wielkosc tablicy = 50000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 25000
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 25000
+Jump Search czas wyszukiwania = 20900 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 49999
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 49999
+Jump Search czas wyszukiwania = 10500 nanoseconds
+
+
+Wielkosc tablicy = 100000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1100 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 50000
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 50000
+Jump Search czas wyszukiwania = 9300 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 99999
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 99999
+Jump Search czas wyszukiwania = 15600 nanoseconds
+
+
+Wielkosc tablicy = 500000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 250000
+Binary Search Iter czas wyszukiwania = 4900 nanoseconds
+
+Indeks elementu: 250000
+Binary Search Rec czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 250000
+Jump Search czas wyszukiwania = 76300 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 499999
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 499999
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 499999
+Jump Search czas wyszukiwania = 40800 nanoseconds
+
+
+Wielkosc tablicy = 1000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 500000
+Binary Search Rec czas wyszukiwania = 2000 nanoseconds
+
+Indeks elementu: 500000
+Jump Search czas wyszukiwania = 64900 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 999999
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 999999
+Jump Search czas wyszukiwania = 61000 nanoseconds
+
+
+Wielkosc tablicy = 5000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 2000 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 2500000
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 2500000
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 2500000
+Jump Search czas wyszukiwania = 68600 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 4999999
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 4999999
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 4999999
+Jump Search czas wyszukiwania = 122500 nanoseconds
+
+
+Wielkosc tablicy = 10000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 4200 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1000 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000000
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 5000000
+Binary Search Rec czas wyszukiwania = 2000 nanoseconds
+
+Indeks elementu: 5000000
+Jump Search czas wyszukiwania = 223500 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999999
+Binary Search Iter czas wyszukiwania = 2100 nanoseconds
+
+Indeks elementu: 9999999
+Binary Search Rec czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 9999999
+Jump Search czas wyszukiwania = 240200 nanoseconds
+
+
+Wielkosc tablicy = 50000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1000 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000000
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 25000000
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 25000000
+Jump Search czas wyszukiwania = 259600 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999999
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 49999999
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 49999999
+Jump Search czas wyszukiwania = 464100 nanoseconds
+
+
+Wielkosc tablicy = 100000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000000
+Binary Search Iter czas wyszukiwania = 17500 nanoseconds
+
+Indeks elementu: 50000000
+Binary Search Rec czas wyszukiwania = 4600 nanoseconds
+
+Indeks elementu: 50000000
+Jump Search czas wyszukiwania = 331900 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999999
+Binary Search Iter czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 99999999
+Binary Search Rec czas wyszukiwania = 1800 nanoseconds
+
+Indeks elementu: 99999999
+Jump Search czas wyszukiwania = 669700 nanoseconds
+
+
+Wielkosc tablicy = 1000000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 18700 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000000
+Binary Search Iter czas wyszukiwania = 2000 nanoseconds
+
+Indeks elementu: 500000000
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 500000000
+Jump Search czas wyszukiwania = 1815100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999999
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 999999999
+Binary Search Rec czas wyszukiwania = 1800 nanoseconds
+
+Indeks elementu: 999999999
+Jump Search czas wyszukiwania = 3130500 nanoseconds
+
+
+Badanie nr: 3
+Wielkosc tablicy = 10000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1000 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 5000
+Binary Search Rec czas wyszukiwania = 18200 nanoseconds
+
+Indeks elementu: 5000
+Jump Search czas wyszukiwania = 5900 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 9999
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 9999
+Jump Search czas wyszukiwania = 5000 nanoseconds
+
+
+Wielkosc tablicy = 50000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 25000
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 25000
+Jump Search czas wyszukiwania = 6000 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 49999
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 49999
+Jump Search czas wyszukiwania = 10600 nanoseconds
+
+
+Wielkosc tablicy = 100000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 50000
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 50000
+Jump Search czas wyszukiwania = 8100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 99999
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 99999
+Jump Search czas wyszukiwania = 15400 nanoseconds
+
+
+Wielkosc tablicy = 500000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 250000
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 250000
+Binary Search Rec czas wyszukiwania = 1700 nanoseconds
+
+Indeks elementu: 250000
+Jump Search czas wyszukiwania = 54400 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 499999
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 499999
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 499999
+Jump Search czas wyszukiwania = 32100 nanoseconds
+
+
+Wielkosc tablicy = 1000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000
+Binary Search Iter czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 500000
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 500000
+Jump Search czas wyszukiwania = 27900 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 999999
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 999999
+Jump Search czas wyszukiwania = 192700 nanoseconds
+
+
+Wielkosc tablicy = 5000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 5100 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 2500000
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 2500000
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 2500000
+Jump Search czas wyszukiwania = 115400 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 4999999
+Binary Search Iter czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 4999999
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 4999999
+Jump Search czas wyszukiwania = 327900 nanoseconds
+
+
+Wielkosc tablicy = 10000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1300 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000000
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 5000000
+Binary Search Rec czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 5000000
+Jump Search czas wyszukiwania = 125400 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999999
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 9999999
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 9999999
+Jump Search czas wyszukiwania = 248200 nanoseconds
+
+
+Wielkosc tablicy = 50000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000000
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 25000000
+Binary Search Rec czas wyszukiwania = 1700 nanoseconds
+
+Indeks elementu: 25000000
+Jump Search czas wyszukiwania = 373800 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999999
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 49999999
+Binary Search Rec czas wyszukiwania = 2900 nanoseconds
+
+Indeks elementu: 49999999
+Jump Search czas wyszukiwania = 419100 nanoseconds
+
+
+Wielkosc tablicy = 100000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 2200 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 6300 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000000
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 50000000
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 50000000
+Jump Search czas wyszukiwania = 369700 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999999
+Binary Search Iter czas wyszukiwania = 21000 nanoseconds
+
+Indeks elementu: 99999999
+Binary Search Rec czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 99999999
+Jump Search czas wyszukiwania = 630800 nanoseconds
+
+
+Wielkosc tablicy = 1000000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000000
+Binary Search Iter czas wyszukiwania = 1900 nanoseconds
+
+Indeks elementu: 500000000
+Binary Search Rec czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 500000000
+Jump Search czas wyszukiwania = 1661300 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999999
+Binary Search Iter czas wyszukiwania = 2500 nanoseconds
+
+Indeks elementu: 999999999
+Binary Search Rec czas wyszukiwania = 2000 nanoseconds
+
+Indeks elementu: 999999999
+Jump Search czas wyszukiwania = 3174400 nanoseconds
+
+
+Badanie nr: 4
+Wielkosc tablicy = 10000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 300 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 5000
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 5000
+Jump Search czas wyszukiwania = 2600 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 9999
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 9999
+Jump Search czas wyszukiwania = 6200 nanoseconds
+
+
+Wielkosc tablicy = 50000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1300 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 25000
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 25000
+Jump Search czas wyszukiwania = 5500 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999
+Binary Search Iter czas wyszukiwania = 300 nanoseconds
+
+Indeks elementu: 49999
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 49999
+Jump Search czas wyszukiwania = 10800 nanoseconds
+
+
+Wielkosc tablicy = 100000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 50000
+Binary Search Rec czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 50000
+Jump Search czas wyszukiwania = 8700 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999
+Binary Search Iter czas wyszukiwania = 3500 nanoseconds
+
+Indeks elementu: 99999
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 99999
+Jump Search czas wyszukiwania = 15200 nanoseconds
+
+
+Wielkosc tablicy = 500000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 18500 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 250000
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 250000
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 250000
+Jump Search czas wyszukiwania = 29600 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 499999
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 499999
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 499999
+Jump Search czas wyszukiwania = 36000 nanoseconds
+
+
+Wielkosc tablicy = 1000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 500000
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 500000
+Jump Search czas wyszukiwania = 81400 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 999999
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 999999
+Jump Search czas wyszukiwania = 72200 nanoseconds
+
+
+Wielkosc tablicy = 5000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1800 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 2500000
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 2500000
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 2500000
+Jump Search czas wyszukiwania = 141500 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 4999999
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 4999999
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 4999999
+Jump Search czas wyszukiwania = 161300 nanoseconds
+
+
+Wielkosc tablicy = 10000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1200 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000000
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 5000000
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 5000000
+Jump Search czas wyszukiwania = 117300 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999999
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 9999999
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 9999999
+Jump Search czas wyszukiwania = 185900 nanoseconds
+
+
+Wielkosc tablicy = 50000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000000
+Binary Search Iter czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 25000000
+Binary Search Rec czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 25000000
+Jump Search czas wyszukiwania = 273100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999999
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 49999999
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 49999999
+Jump Search czas wyszukiwania = 572100 nanoseconds
+
+
+Wielkosc tablicy = 100000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 22900 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 4500 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000000
+Binary Search Iter czas wyszukiwania = 3000 nanoseconds
+
+Indeks elementu: 50000000
+Binary Search Rec czas wyszukiwania = 2000 nanoseconds
+
+Indeks elementu: 50000000
+Jump Search czas wyszukiwania = 353400 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999999
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 99999999
+Binary Search Rec czas wyszukiwania = 4600 nanoseconds
+
+Indeks elementu: 99999999
+Jump Search czas wyszukiwania = 858500 nanoseconds
+
+
+Wielkosc tablicy = 1000000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1800 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1000 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000000
+Binary Search Iter czas wyszukiwania = 18800 nanoseconds
+
+Indeks elementu: 500000000
+Binary Search Rec czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 500000000
+Jump Search czas wyszukiwania = 2198300 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999999
+Binary Search Iter czas wyszukiwania = 2200 nanoseconds
+
+Indeks elementu: 999999999
+Binary Search Rec czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 999999999
+Jump Search czas wyszukiwania = 4108600 nanoseconds
+
+
+Badanie nr: 5
+Wielkosc tablicy = 10000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 5000
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 5000
+Jump Search czas wyszukiwania = 2700 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 9999
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 9999
+Jump Search czas wyszukiwania = 5300 nanoseconds
+
+
+Wielkosc tablicy = 50000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 7700 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 25000
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 25000
+Jump Search czas wyszukiwania = 6100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 49999
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 49999
+Jump Search czas wyszukiwania = 10200 nanoseconds
+
+
+Wielkosc tablicy = 100000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 50000
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 50000
+Jump Search czas wyszukiwania = 9100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 99999
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 99999
+Jump Search czas wyszukiwania = 41500 nanoseconds
+
+
+Wielkosc tablicy = 500000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 250000
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 250000
+Binary Search Rec czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 250000
+Jump Search czas wyszukiwania = 21000 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 499999
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 499999
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 499999
+Jump Search czas wyszukiwania = 64800 nanoseconds
+
+
+Wielkosc tablicy = 1000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1000 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000
+Binary Search Iter czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 500000
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 500000
+Jump Search czas wyszukiwania = 27100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 999999
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 999999
+Jump Search czas wyszukiwania = 95400 nanoseconds
+
+
+Wielkosc tablicy = 5000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1800 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 2500000
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 2500000
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 2500000
+Jump Search czas wyszukiwania = 117900 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 4999999
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 4999999
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 4999999
+Jump Search czas wyszukiwania = 122300 nanoseconds
+
+
+Wielkosc tablicy = 10000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1800 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000000
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 5000000
+Binary Search Rec czas wyszukiwania = 1700 nanoseconds
+
+Indeks elementu: 5000000
+Jump Search czas wyszukiwania = 107500 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999999
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 9999999
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 9999999
+Jump Search czas wyszukiwania = 498200 nanoseconds
+
+
+Wielkosc tablicy = 50000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1200 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000000
+Binary Search Iter czas wyszukiwania = 18500 nanoseconds
+
+Indeks elementu: 25000000
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 25000000
+Jump Search czas wyszukiwania = 298100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999999
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 49999999
+Binary Search Rec czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 49999999
+Jump Search czas wyszukiwania = 465900 nanoseconds
+
+
+Wielkosc tablicy = 100000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1200 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000000
+Binary Search Iter czas wyszukiwania = 1700 nanoseconds
+
+Indeks elementu: 50000000
+Binary Search Rec czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 50000000
+Jump Search czas wyszukiwania = 786600 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999999
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 99999999
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 99999999
+Jump Search czas wyszukiwania = 667400 nanoseconds
+
+
+Wielkosc tablicy = 1000000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000000
+Binary Search Iter czas wyszukiwania = 1800 nanoseconds
+
+Indeks elementu: 500000000
+Binary Search Rec czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 500000000
+Jump Search czas wyszukiwania = 1616100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999999
+Binary Search Iter czas wyszukiwania = 1800 nanoseconds
+
+Indeks elementu: 999999999
+Binary Search Rec czas wyszukiwania = 1900 nanoseconds
+
+Indeks elementu: 999999999
+Jump Search czas wyszukiwania = 3016800 nanoseconds
+
+
+Badanie nr: 6
+Wielkosc tablicy = 10000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 300 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000
+Binary Search Iter czas wyszukiwania = 300 nanoseconds
+
+Indeks elementu: 5000
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 5000
+Jump Search czas wyszukiwania = 3100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 9999
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 9999
+Jump Search czas wyszukiwania = 3800 nanoseconds
+
+
+Wielkosc tablicy = 50000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 25000
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 25000
+Jump Search czas wyszukiwania = 5600 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 49999
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 49999
+Jump Search czas wyszukiwania = 10200 nanoseconds
+
+
+Wielkosc tablicy = 100000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 50000
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 50000
+Jump Search czas wyszukiwania = 8500 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 99999
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 99999
+Jump Search czas wyszukiwania = 31100 nanoseconds
+
+
+Wielkosc tablicy = 500000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 250000
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 250000
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 250000
+Jump Search czas wyszukiwania = 22500 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 499999
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 499999
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 499999
+Jump Search czas wyszukiwania = 36500 nanoseconds
+
+
+Wielkosc tablicy = 1000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 500000
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 500000
+Jump Search czas wyszukiwania = 56000 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999
+Binary Search Iter czas wyszukiwania = 2500 nanoseconds
+
+Indeks elementu: 999999
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 999999
+Jump Search czas wyszukiwania = 83500 nanoseconds
+
+
+Wielkosc tablicy = 5000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 2500000
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 2500000
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 2500000
+Jump Search czas wyszukiwania = 65800 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 4999999
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 4999999
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 4999999
+Jump Search czas wyszukiwania = 265500 nanoseconds
+
+
+Wielkosc tablicy = 10000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1300 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000000
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 5000000
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 5000000
+Jump Search czas wyszukiwania = 91100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999999
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 9999999
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 9999999
+Jump Search czas wyszukiwania = 271700 nanoseconds
+
+
+Wielkosc tablicy = 50000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000000
+Binary Search Iter czas wyszukiwania = 18800 nanoseconds
+
+Indeks elementu: 25000000
+Binary Search Rec czas wyszukiwania = 2400 nanoseconds
+
+Indeks elementu: 25000000
+Jump Search czas wyszukiwania = 474500 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999999
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 49999999
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 49999999
+Jump Search czas wyszukiwania = 476500 nanoseconds
+
+
+Wielkosc tablicy = 100000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1900 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1200 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000000
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 50000000
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 50000000
+Jump Search czas wyszukiwania = 406200 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999999
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 99999999
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 99999999
+Jump Search czas wyszukiwania = 718500 nanoseconds
+
+
+Wielkosc tablicy = 1000000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1700 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000000
+Binary Search Iter czas wyszukiwania = 2000 nanoseconds
+
+Indeks elementu: 500000000
+Binary Search Rec czas wyszukiwania = 2200 nanoseconds
+
+Indeks elementu: 500000000
+Jump Search czas wyszukiwania = 1767700 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999999
+Binary Search Iter czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 999999999
+Binary Search Rec czas wyszukiwania = 4100 nanoseconds
+
+Indeks elementu: 999999999
+Jump Search czas wyszukiwania = 3112000 nanoseconds
+
+
+Badanie nr: 7
+Wielkosc tablicy = 10000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1300 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 5000
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 5000
+Jump Search czas wyszukiwania = 2700 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999
+Binary Search Iter czas wyszukiwania = 300 nanoseconds
+
+Indeks elementu: 9999
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 9999
+Jump Search czas wyszukiwania = 4700 nanoseconds
+
+
+Wielkosc tablicy = 50000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 25000
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 25000
+Jump Search czas wyszukiwania = 22700 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 49999
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 49999
+Jump Search czas wyszukiwania = 29100 nanoseconds
+
+
+Wielkosc tablicy = 100000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000
+Binary Search Iter czas wyszukiwania = 18900 nanoseconds
+
+Indeks elementu: 50000
+Binary Search Rec czas wyszukiwania = 1700 nanoseconds
+
+Indeks elementu: 50000
+Jump Search czas wyszukiwania = 42100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 99999
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 99999
+Jump Search czas wyszukiwania = 31300 nanoseconds
+
+
+Wielkosc tablicy = 500000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 250000
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 250000
+Binary Search Rec czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 250000
+Jump Search czas wyszukiwania = 21200 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 499999
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 499999
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 499999
+Jump Search czas wyszukiwania = 33200 nanoseconds
+
+
+Wielkosc tablicy = 1000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000
+Binary Search Iter czas wyszukiwania = 17700 nanoseconds
+
+Indeks elementu: 500000
+Binary Search Rec czas wyszukiwania = 17700 nanoseconds
+
+Indeks elementu: 500000
+Jump Search czas wyszukiwania = 27200 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 999999
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 999999
+Jump Search czas wyszukiwania = 98600 nanoseconds
+
+
+Wielkosc tablicy = 5000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1100 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 2500000
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 2500000
+Binary Search Rec czas wyszukiwania = 2700 nanoseconds
+
+Indeks elementu: 2500000
+Jump Search czas wyszukiwania = 101500 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 4999999
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 4999999
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 4999999
+Jump Search czas wyszukiwania = 129200 nanoseconds
+
+
+Wielkosc tablicy = 10000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000000
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 5000000
+Binary Search Rec czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 5000000
+Jump Search czas wyszukiwania = 102900 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999999
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 9999999
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 9999999
+Jump Search czas wyszukiwania = 410300 nanoseconds
+
+
+Wielkosc tablicy = 50000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 18600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000000
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 25000000
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 25000000
+Jump Search czas wyszukiwania = 264900 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999999
+Binary Search Iter czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 49999999
+Binary Search Rec czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 49999999
+Jump Search czas wyszukiwania = 525900 nanoseconds
+
+
+Wielkosc tablicy = 100000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 16700 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000000
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 50000000
+Binary Search Rec czas wyszukiwania = 2600 nanoseconds
+
+Indeks elementu: 50000000
+Jump Search czas wyszukiwania = 298500 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999999
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 99999999
+Binary Search Rec czas wyszukiwania = 2900 nanoseconds
+
+Indeks elementu: 99999999
+Jump Search czas wyszukiwania = 853800 nanoseconds
+
+
+Wielkosc tablicy = 1000000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000000
+Binary Search Iter czas wyszukiwania = 17100 nanoseconds
+
+Indeks elementu: 500000000
+Binary Search Rec czas wyszukiwania = 2200 nanoseconds
+
+Indeks elementu: 500000000
+Jump Search czas wyszukiwania = 1780100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999999
+Binary Search Iter czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 999999999
+Binary Search Rec czas wyszukiwania = 3400 nanoseconds
+
+Indeks elementu: 999999999
+Jump Search czas wyszukiwania = 2950000 nanoseconds
+
+
+Badanie nr: 8
+Wielkosc tablicy = 10000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 200 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 5000
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 5000
+Jump Search czas wyszukiwania = 2200 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 9999
+Binary Search Rec czas wyszukiwania = 16900 nanoseconds
+
+Indeks elementu: 9999
+Jump Search czas wyszukiwania = 5000 nanoseconds
+
+
+Wielkosc tablicy = 50000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 400 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 25000
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 25000
+Jump Search czas wyszukiwania = 5800 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 49999
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 49999
+Jump Search czas wyszukiwania = 36500 nanoseconds
+
+
+Wielkosc tablicy = 100000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000
+Binary Search Iter czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 50000
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 50000
+Jump Search czas wyszukiwania = 23900 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 99999
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 99999
+Jump Search czas wyszukiwania = 15100 nanoseconds
+
+
+Wielkosc tablicy = 500000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 250000
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 250000
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 250000
+Jump Search czas wyszukiwania = 115300 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 499999
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 499999
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 499999
+Jump Search czas wyszukiwania = 68300 nanoseconds
+
+
+Wielkosc tablicy = 1000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 500000
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 500000
+Jump Search czas wyszukiwania = 43400 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 999999
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 999999
+Jump Search czas wyszukiwania = 67800 nanoseconds
+
+
+Wielkosc tablicy = 5000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 2500000
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 2500000
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 2500000
+Jump Search czas wyszukiwania = 209400 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 4999999
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 4999999
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 4999999
+Jump Search czas wyszukiwania = 135000 nanoseconds
+
+
+Wielkosc tablicy = 10000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 16600 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000000
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 5000000
+Binary Search Rec czas wyszukiwania = 1800 nanoseconds
+
+Indeks elementu: 5000000
+Jump Search czas wyszukiwania = 95300 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999999
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 9999999
+Binary Search Rec czas wyszukiwania = 1700 nanoseconds
+
+Indeks elementu: 9999999
+Jump Search czas wyszukiwania = 185100 nanoseconds
+
+
+Wielkosc tablicy = 50000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 17500 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1000 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000000
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 25000000
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 25000000
+Jump Search czas wyszukiwania = 222100 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999999
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 49999999
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 49999999
+Jump Search czas wyszukiwania = 501200 nanoseconds
+
+
+Wielkosc tablicy = 100000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000000
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 50000000
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 50000000
+Jump Search czas wyszukiwania = 373400 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999999
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 99999999
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 99999999
+Jump Search czas wyszukiwania = 685100 nanoseconds
+
+
+Wielkosc tablicy = 1000000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1900 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000000
+Binary Search Iter czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 500000000
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 500000000
+Jump Search czas wyszukiwania = 1607700 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999999
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 999999999
+Binary Search Rec czas wyszukiwania = 2800 nanoseconds
+
+Indeks elementu: 999999999
+Jump Search czas wyszukiwania = 2990400 nanoseconds
+
+
+Badanie nr: 9
+Wielkosc tablicy = 10000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 5000
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 5000
+Jump Search czas wyszukiwania = 2600 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999
+Binary Search Iter czas wyszukiwania = 300 nanoseconds
+
+Indeks elementu: 9999
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 9999
+Jump Search czas wyszukiwania = 5600 nanoseconds
+
+
+Wielkosc tablicy = 50000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 2000 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 25000
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 25000
+Jump Search czas wyszukiwania = 23600 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 49999
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 49999
+Jump Search czas wyszukiwania = 9600 nanoseconds
+
+
+Wielkosc tablicy = 100000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000
+Binary Search Iter czas wyszukiwania = 19400 nanoseconds
+
+Indeks elementu: 50000
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 50000
+Jump Search czas wyszukiwania = 7800 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 99999
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 99999
+Jump Search czas wyszukiwania = 15100 nanoseconds
+
+
+Wielkosc tablicy = 500000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 500 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 250000
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 250000
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 250000
+Jump Search czas wyszukiwania = 54200 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 499999
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 499999
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 499999
+Jump Search czas wyszukiwania = 54300 nanoseconds
+
+
+Wielkosc tablicy = 1000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 500 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 500000
+Binary Search Rec czas wyszukiwania = 1900 nanoseconds
+
+Indeks elementu: 500000
+Jump Search czas wyszukiwania = 27000 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 999999
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 999999
+Jump Search czas wyszukiwania = 56300 nanoseconds
+
+
+Wielkosc tablicy = 5000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 2500000
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 2500000
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 2500000
+Jump Search czas wyszukiwania = 92400 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 4999999
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 4999999
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 4999999
+Jump Search czas wyszukiwania = 108400 nanoseconds
+
+
+Wielkosc tablicy = 10000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000000
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 5000000
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 5000000
+Jump Search czas wyszukiwania = 146800 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999999
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 9999999
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 9999999
+Jump Search czas wyszukiwania = 191300 nanoseconds
+
+
+Wielkosc tablicy = 50000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 2300 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000000
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 25000000
+Binary Search Rec czas wyszukiwania = 2100 nanoseconds
+
+Indeks elementu: 25000000
+Jump Search czas wyszukiwania = 300200 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999999
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 49999999
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 49999999
+Jump Search czas wyszukiwania = 460700 nanoseconds
+
+
+Wielkosc tablicy = 100000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000000
+Binary Search Iter czas wyszukiwania = 17100 nanoseconds
+
+Indeks elementu: 50000000
+Binary Search Rec czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 50000000
+Jump Search czas wyszukiwania = 369600 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999999
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 99999999
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 99999999
+Jump Search czas wyszukiwania = 688400 nanoseconds
+
+
+Wielkosc tablicy = 1000000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000000
+Binary Search Iter czas wyszukiwania = 2200 nanoseconds
+
+Indeks elementu: 500000000
+Binary Search Rec czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 500000000
+Jump Search czas wyszukiwania = 1616900 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999999
+Binary Search Iter czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 999999999
+Binary Search Rec czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 999999999
+Jump Search czas wyszukiwania = 2926000 nanoseconds
+
+
+Badanie nr: 10
+Wielkosc tablicy = 10000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000
+Binary Search Iter czas wyszukiwania = 300 nanoseconds
+
+Indeks elementu: 5000
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 5000
+Jump Search czas wyszukiwania = 2500 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 9999
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 9999
+Jump Search czas wyszukiwania = 4900 nanoseconds
+
+
+Wielkosc tablicy = 50000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 25000
+Binary Search Rec czas wyszukiwania = 2800 nanoseconds
+
+Indeks elementu: 25000
+Jump Search czas wyszukiwania = 5900 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999
+Binary Search Iter czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 49999
+Binary Search Rec czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 49999
+Jump Search czas wyszukiwania = 42400 nanoseconds
+
+
+Wielkosc tablicy = 100000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000
+Binary Search Iter czas wyszukiwania = 400 nanoseconds
+
+Indeks elementu: 50000
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 50000
+Jump Search czas wyszukiwania = 8500 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 99999
+Binary Search Rec czas wyszukiwania = 600 nanoseconds
+
+Indeks elementu: 99999
+Jump Search czas wyszukiwania = 17600 nanoseconds
+
+
+Wielkosc tablicy = 500000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 500 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 18900 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1100 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 250000
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 250000
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 250000
+Jump Search czas wyszukiwania = 37900 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 499999
+Binary Search Iter czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 499999
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 499999
+Jump Search czas wyszukiwania = 36400 nanoseconds
+
+
+Wielkosc tablicy = 1000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1400 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 700 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000
+Binary Search Iter czas wyszukiwania = 1700 nanoseconds
+
+Indeks elementu: 500000
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 500000
+Jump Search czas wyszukiwania = 34300 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999
+Binary Search Iter czas wyszukiwania = 700 nanoseconds
+
+Indeks elementu: 999999
+Binary Search Rec czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 999999
+Jump Search czas wyszukiwania = 76200 nanoseconds
+
+
+Wielkosc tablicy = 5000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 600 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 2500000
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 2500000
+Binary Search Rec czas wyszukiwania = 800 nanoseconds
+
+Indeks elementu: 2500000
+Jump Search czas wyszukiwania = 145600 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 4999999
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 4999999
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 4999999
+Jump Search czas wyszukiwania = 138500 nanoseconds
+
+
+Wielkosc tablicy = 10000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 2400 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 1100 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 5000000
+Binary Search Iter czas wyszukiwania = 1200 nanoseconds
+
+Indeks elementu: 5000000
+Binary Search Rec czas wyszukiwania = 4200 nanoseconds
+
+Indeks elementu: 5000000
+Jump Search czas wyszukiwania = 265300 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 9999999
+Binary Search Iter czas wyszukiwania = 900 nanoseconds
+
+Indeks elementu: 9999999
+Binary Search Rec czas wyszukiwania = 1600 nanoseconds
+
+Indeks elementu: 9999999
+Jump Search czas wyszukiwania = 205100 nanoseconds
+
+
+Wielkosc tablicy = 50000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 25000000
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 25000000
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 25000000
+Jump Search czas wyszukiwania = 266200 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 49999999
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 49999999
+Binary Search Rec czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 49999999
+Jump Search czas wyszukiwania = 474700 nanoseconds
+
+
+Wielkosc tablicy = 100000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1500 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 800 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 50000000
+Binary Search Iter czas wyszukiwania = 16800 nanoseconds
+
+Indeks elementu: 50000000
+Binary Search Rec czas wyszukiwania = 1000 nanoseconds
+
+Indeks elementu: 50000000
+Jump Search czas wyszukiwania = 331800 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 99999999
+Binary Search Iter czas wyszukiwania = 1100 nanoseconds
+
+Indeks elementu: 99999999
+Binary Search Rec czas wyszukiwania = 2000 nanoseconds
+
+Indeks elementu: 99999999
+Jump Search czas wyszukiwania = 678500 nanoseconds
+
+
+Wielkosc tablicy = 1000000000
+
+Optymistyczny przypadek
+Indeks elementu: 0
+Binary Search Iter czas wyszukiwania = 1900 nanoseconds
+
+Indeks elementu: 0
+Binary Search Rec czas wyszukiwania = 1800 nanoseconds
+
+Indeks elementu: 0
+Jump Search czas wyszukiwania = 900 nanoseconds
+
+
+Sredni przypadek
+Indeks elementu: 500000000
+Binary Search Iter czas wyszukiwania = 2500 nanoseconds
+
+Indeks elementu: 500000000
+Binary Search Rec czas wyszukiwania = 2500 nanoseconds
+
+Indeks elementu: 500000000
+Jump Search czas wyszukiwania = 1748700 nanoseconds
+
+
+Pesymistyczny przypadek
+Indeks elementu: 999999999
+Binary Search Iter czas wyszukiwania = 1300 nanoseconds
+
+Indeks elementu: 999999999
+Binary Search Rec czas wyszukiwania = 17400 nanoseconds
+
+Indeks elementu: 999999999
+Jump Search czas wyszukiwania = 3362000 nanoseconds
+
+
